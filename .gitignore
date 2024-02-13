@@ -1,0 +1,7 @@
+.idea
+.vscode
+.DS_Store
+tests/.DS_Store
+tests/pageobjects/.DS_Store
+/node_modules
+/window_dump.xml
