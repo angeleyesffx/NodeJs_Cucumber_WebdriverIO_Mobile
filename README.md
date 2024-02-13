@@ -111,11 +111,13 @@ npm install
 > Feature: Login on the Application
 > 
 >    @C123456 @ios @android
+> 
 >    Scenario: As a user, I want to login
+> 
 >         Given ... 
 
 
-## To run a test with a special tag:
+#### To run a test with a special tag:
 
 ##### android:
 
